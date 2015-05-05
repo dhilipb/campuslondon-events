@@ -1,0 +1,338 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:CampusLondon
+X-WR-CALNAME:Google Campus London Events
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:5548f7797a6bc
+DTSTART;TZID=Europe/London:20150505T130000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150505T170000
+SUMMARY:Value Proposition - Build a successful startup
+DESCRIPTION:<p>Build and discover your value proposition -this course will 
+ introduce you to a few tools you can use to structure strategies & make pr
+ ogress with your business.</p><h5>Event location</h5><p>3rd floor</p><ul c
+ lass=\"_tag-list\"><li><span class=\"icon icon-community-run\"></span> A C
+ ommunity-run event</li></ul><a class=\"-button js-learn-more\" href=\"http
+ ://www.dreamstake.net/component/community/events/viewevent2?eventid=10\" t
+ itle=\"Opens event detail in new tab\" target=\"_blank\" tabindex=\"-1\">L
+ earn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7797b593
+DTSTART;TZID=Europe/London:20150505T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150505T190000
+SUMMARY:Behavioral SQL
+DESCRIPTION:<p>This event will teach you how to use CQL to take funnel and 
+ cohort analysis to the next level!</p><h5>Event location</h5><p>3rd floor<
+ /p><ul class=\"_tag-list\"><li><span class=\"icon icon-community-run\"></s
+ pan> A Community-run event</li></ul><a class=\"-button js-learn-more\" hre
+ f=\"http://www.meetup.com/London-Actionable-Behavioral-Analytics/events/22
+ 1003587/\" title=\"Opens event detail in new tab\" target=\"_blank\" tabin
+ dex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7797c29c
+DTSTART;TZID=Europe/London:20150505T173000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150505T210000
+SUMMARY:TechHub Demo Night
+DESCRIPTION:<p>TechHub Demo Night isn't about pitching for funds -it's an o
+ pportunity to show the community what you're working on.</p><h5>Event loca
+ tion</h5><p>Ground floor</p><ul class=\"_tag-list\"><li><span class=\"icon
+  icon-community-run\"></span> A Community-run event</li></ul><a class=\"-b
+ utton js-learn-more\" href=\"http://london.techhub.com/events/demo-night-9
+ \" title=\"Opens event detail in new tab\" target=\"_blank\" tabindex=\"-1
+ \">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7797cf87
+DTSTART;TZID=Europe/London:20150506T183000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150506T200000
+SUMMARY:Think outside the screen
+DESCRIPTION:<p>Join Unplugged Weekend & learn how to balance your digital h
+ abits to be more productive and efficient with your screen time.</p><h5>Ev
+ ent location</h5><p>3rd floor</p><ul class=\"_tag-list\"><li><span class=\
+ "icon icon-community-run\"></span> A Community-run event</li></ul><a class
+ =\"-button js-learn-more\" href=\"https://www.eventbrite.co.uk/e/think-out
+ side-the-screen-tickets-16236389478\" title=\"Opens event detail in new ta
+ b\" target=\"_blank\" tabindex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7797dca5
+DTSTART;TZID=Europe/London:20150506T183000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150506T223000
+SUMMARY:Programming Tomorrow | Machine Learning -  Big Data & Gene Editing
+DESCRIPTION:<p>Join the technical staff of Google Deep Mind\, Eagle Genomic
+ s & Desktop Genetics\, to discuss how tomorrow's programming will allow hu
+ mans to rewrite themselves & their future.</p><h5>Event location</h5><p>Gr
+ ound floor</p><ul class=\"_tag-list\"><li><span class=\"icon icon-communit
+ y-run\"></span> A Community-run event</li></ul><a class=\"-button js-learn
+ -more\" href=\"https://www.eventbrite.com.au/e/programming-tomorrow-machin
+ e-learning-big-data-and-gene-editing-tickets-16296478205\" title=\"Opens e
+ vent detail in new tab\" target=\"_blank\" tabindex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7797f053
+DTSTART;TZID=Europe/London:20150507T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150507T210000
+SUMMARY:The accidental startup
+DESCRIPTION:<p>Discover digital marketing principles that can help you get 
+ from zero to selling - without a product release.</p><h5>Event location</h
+ 5><p>3rd floor</p><ul class=\"_tag-list\"><li><span class=\"icon icon-comm
+ unity-run\"></span> A Community-run event</li></ul><a class=\"-button js-l
+ earn-more\" href=\"https://www.eventbrite.co.uk/e/from-zero-to-selling-wit
+ hout-a-product-release-google-campus-london-may-2015-registration-16429491
+ 050\" title=\"Opens event detail in new tab\" target=\"_blank\" tabindex=\
+ "-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7797ff10
+DTSTART;TZID=Europe/London:20150507T184500
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150507T210000
+SUMMARY:Transitioning to Tech: Moving From a Traditional Field into Entrepr
+ eneurialism
+DESCRIPTION:<p>This panel will empower students to explore technology entre
+ preneurship by sharing case studies and guiding them to available resource
+ s.https://generalassemb.ly/education/transitioning-to-tech-moving-from-a-t
+ raditional-field-into-entrepreneurialism/london/12068</p><h5>Event locatio
+ n</h5><p>Ground floor</p><ul class=\"_tag-list\"><li><span class=\"icon ic
+ on-community-run\"></span> A Community-run event</li></ul><span class=\"js
+ -trap\"></span>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f77980cad
+DTSTART;TZID=Europe/London:20150508T213000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150508T170000
+SUMMARY:A Practical Introduction to Machine Learning
+DESCRIPTION:<p>Want to be able to predict the future -target profitable use
+ rs -detect spammy user accounts -Machine learning allows you to do all of 
+ these things and more. We give attendees a practical introduction to machi
+ ne learning on this one day workshop. For more information on the session 
+ go to goo.gl/aE88mfhttps://www.eventbrite.co.uk/e/a-practical-introduction
+ -to-machine-learning-campus-london-tickets-16353950105</p><h5>Event locati
+ on</h5><p>3rd floor</p><ul class=\"_tag-list\"><li><span class=\"icon icon
+ -community-run\"></span> A Community-run event</li></ul><span class=\"js-t
+ rap\"></span>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f77981af0
+DTSTART;TZID=Europe/London:20150508T100000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150508T120000
+SUMMARY:Feed Management - working with data feeds
+DESCRIPTION:<p>Sign up for Mentoring@Campus\, a fast\, fun and free 1:1 men
+ toring session for start ups with Google experts. Mentoring takes place ev
+ ery Friday between 10am - 12pm at Campus London with sessions on different
+  topics every week.</p><h5>Event location</h5><p>Cafe</p><ul class=\"_tag-
+ list\"><li><span class=\"icon-type -tag-0\"></span> Mentoring@Campus</li><
+ li><div class=\"icon-campus campus-badge -london -static\"></div> A Campus
+ -run event</li></ul><a class=\"-button js-learn-more\" href=\"https://goo.
+ gl/Jj5S52\" title=\"Opens event detail in new tab\" target=\"_blank\" tabi
+ ndex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f77982b10
+DTSTART;TZID=Europe/London:20150508T180000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150508T230000
+SUMMARY:Silicon Drinkabout
+DESCRIPTION:<p>Silicon Drinkabout is a weekly meet-up for startups and tech
+ ies to meet like-minded people -have some fun and relax at the end of the 
+ working week.</p><h5>Event location</h5><p>Cafe</p><ul class=\"_tag-list\"
+ ><li><span class=\"icon icon-community-run\"></span> A Community-run event
+ </li></ul><a class=\"-button js-learn-more\" href=\"http://3-beards.com/si
+ licondrinkabout/london\" title=\"Opens event detail in new tab\" target=\"
+ _blank\" tabindex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f779838b0
+DTSTART;TZID=Europe/London:20150509T103000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150509T153000
+SUMMARY:5 Under 25: #TheNew1sToWatch
+DESCRIPTION:<p>Media entrepreneur and Daily Mail Enterprising Young Brit An
+ drea Photiou hosts an audience with five thought-leaders who happen to be 
+ under 25.</p><h5>Event location</h5><p>Ground floor</p><ul class=\"_tag-li
+ st\"><li><span class=\"icon icon-community-run\"></span> A Community-run e
+ vent</li></ul><a class=\"-button js-learn-more\" href=\"http://www.eventbr
+ ite.co.uk/e/5-under-25-the-new1stowatch-tickets-15184275577\" title=\"Open
+ s event detail in new tab\" target=\"_blank\" tabindex=\"-1\">Learn More</
+ a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f779847b3
+DTSTART;TZID=Europe/London:20150511T183000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150511T200000
+SUMMARY:London DevOps
+DESCRIPTION:<p>A chance to meet fellow minded individuals\, from people tha
+ t has been doing DevOps for a long time to new starters!</p><h5>Event loca
+ tion</h5><p>Ground floor</p><ul class=\"_tag-list\"><li><span class=\"icon
+  icon-community-run\"></span> A Community-run event</li></ul><a class=\"-b
+ utton js-learn-more\" href=\"www.meetup.com/London-DevOps/\" title=\"Opens
+  event detail in new tab\" target=\"_blank\" tabindex=\"-1\">Learn More</a
+ >
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f77985508
+DTSTART;TZID=Europe/London:20150511T183000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150511T210000
+SUMMARY:Creating Future Tech Businesses Through Exponential Thinking
+DESCRIPTION:<p>Want to find out how future technologies are shaping our liv
+ es and creating new platforms for businesses? Join Future self and special
+  guests.</p><h5>Event location</h5><p>3rd floor</p><ul class=\"_tag-list\"
+ ><li><span class=\"icon icon-community-run\"></span> A Community-run event
+ </li></ul><a class=\"-button js-learn-more\" href=\"https://www.eventbrite
+ .com/e/creating-future-tech-businesses-through-exponential-thinking-ticket
+ s-16453379501\" title=\"Opens event detail in new tab\" target=\"_blank\" 
+ tabindex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f779862a4
+DTSTART;TZID=Europe/London:20150512T180000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150512T220000
+SUMMARY:Co-Founder Dating & Speed Pitching #20
+DESCRIPTION:<p>The ORIGINAL and still the BEST co-founder dating & speed pi
+ tching event EVER!!!!!</p><h5>Event location</h5><p>Ground floor</p><ul cl
+ ass=\"_tag-list\"><li><span class=\"icon icon-community-run\"></span> A Co
+ mmunity-run event</li></ul><a class=\"-button js-learn-more\" href=\"http:
+ //hipsters-hackers-hustlers.com/event/co-founder-dating-speed-pitching-20/
+ \" title=\"Opens event detail in new tab\" target=\"_blank\" tabindex=\"-1
+ \">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7798702f
+DTSTART;TZID=Europe/London:20150512T183000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150512T213000
+SUMMARY:Crowdfunding & Me: The Fundamentals of Crowdfunding
+DESCRIPTION:<p>Learn about crowdfunding and how to benefit from it in seeki
+ ng and acquiring the capital required to bring your projects to products a
+ nd ideas to fruition.</p><h5>Event location</h5><p>3rd floor</p><ul class=
+ \"_tag-list\"><li><span class=\"icon icon-community-run\"></span> A Commun
+ ity-run event</li></ul><a class=\"-button js-learn-more\" href=\"http://ww
+ w.meetup.com/MSV-Club/events/221842822/\" title=\"Opens event detail in ne
+ w tab\" target=\"_blank\" tabindex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f77987d3e
+DTSTART;TZID=Europe/London:20150513T183000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150513T213000
+SUMMARY:Founder Stories with William Reeve of LOVEFiLM
+DESCRIPTION:<p>Hear the story of William Reeve\, an internet-focused entrep
+ reneur who built LOVEFiLM.com from scratch</p><h5>Event location</h5><p>Gr
+ ound floor</p><ul class=\"_tag-list\"><li><span class=\"icon icon-communit
+ y-run\"></span> A Community-run event</li></ul><a class=\"-button js-learn
+ -more\" href=\"http://www.dreamstake.net/index.php?option=com_community&vi
+ ew=events&task=viewevent2&eventid=108\" title=\"Opens event detail in new 
+ tab\" target=\"_blank\" tabindex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f77988a6f
+DTSTART;TZID=Europe/London:20150513T190000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150513T210000
+SUMMARY:FounderDating Kickoff
+DESCRIPTION:<p>Find your co-founder! FounderDating is the premiere online n
+ etwork for entrepreneurs to connect and get started on side projects and c
+ ompanies. Apply to FounderDating to attend this event.</p><h5>Event locati
+ on</h5><p>3rd floor</p><ul class=\"_tag-list\"><li><span class=\"icon icon
+ -community-run\"></span> A Community-run event</li></ul><a class=\"-button
+  js-learn-more\" href=\"http://www.founderdating.com/\" title=\"Opens even
+ t detail in new tab\" target=\"_blank\" tabindex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7798979b
+DTSTART;TZID=Europe/London:20150514T180000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150514T200000
+SUMMARY:Of Hardware startups and British Brands
+DESCRIPTION:<p>Hear the stories behind Virgin Gallactic\, Aston Martin\, Se
+ ymourpowell\, Fueled\, CondimentJunkie & an inspirational case study of My
+ steryVibe.</p><h5>Event location</h5><p>Ground floor</p><ul class=\"_tag-l
+ ist\"><li><span class=\"icon icon-community-run\"></span> A Community-run 
+ event</li></ul><a class=\"-button js-learn-more\" href=\"https://www.event
+ brite.com/e/of-hardware-startups-and-british-brands-tickets-16683801700\" 
+ title=\"Opens event detail in new tab\" target=\"_blank\" tabindex=\"-1\">
+ Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7798a4f6
+DTSTART;TZID=Europe/London:20150514T183000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150514T210000
+SUMMARY:London New Tech #10
+DESCRIPTION:<p>Come marvel at the latest in cool technology! With 5-7 quick
+  demos along with plenty of inspiration and networking opportunities - com
+ e along and find your passion!</p><h5>Event location</h5><p>3rd floor</p><
+ ul class=\"_tag-list\"><li><span class=\"icon icon-community-run\"></span>
+  A Community-run event</li></ul><a class=\"-button js-learn-more\" href=\"
+ http://www.meetup.com/London-New-Tech/\" title=\"Opens event detail in new
+  tab\" target=\"_blank\" tabindex=\"-1\">Learn More</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5548f7798b2b5
+DTSTART;TZID=Europe/London:20150514T190000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/London:20150514T213000
+SUMMARY:Soda Social Meetup
+DESCRIPTION:<p>Soda Social is a networking event that brings together some 
+ of the brightest digital technology enthusiasts looking to socialise and e
+ xpand their knowledgeon current and future digital trends.</p><h5>Event lo
+ cation</h5><p>Cafe</p><ul class=\"_tag-list\"><li><span class=\"icon icon-
+ community-run\"></span> A Community-run event</li></ul><a class=\"-button 
+ js-learn-more\" href=\"http://www.meetup.com/Soda-Social-London/\" title=\
+ "Opens event detail in new tab\" target=\"_blank\" tabindex=\"-1\">Learn M
+ ore</a>
+DTSTAMP:20150505T180145Z
+END:VEVENT
+END:VCALENDAR

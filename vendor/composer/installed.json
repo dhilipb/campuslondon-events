@@ -1,0 +1,111 @@
+[
+    {
+        "name": "eluceo/ical",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/markuspoerschke/iCal.git",
+            "reference": "f4f4597a0cd9f882d4eb6bde52d2d6c5f15ad311"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/markuspoerschke/iCal/zipball/f4f4597a0cd9f882d4eb6bde52d2d6c5f15ad311",
+            "reference": "f4f4597a0cd9f882d4eb6bde52d2d6c5f15ad311",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~4.3"
+        },
+        "time": "2015-03-05 22:50:22",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Eluceo\\iCal": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Maciej Łebkowski",
+                "email": "m.lebkowski@gmail.com",
+                "role": "Contributor"
+            },
+            {
+                "name": "Markus Poerschke",
+                "email": "markus@eluceo.de",
+                "role": "Developer"
+            }
+        ],
+        "description": "The eluceo/iCal package offers a abstraction layer for creating iCalendars. You can easily create iCal files by using PHP object instead of typing your *.ics file by hand. The output will follow RFC 2445 as best as possible.",
+        "homepage": "https://github.com/markuspoerschke/iCal",
+        "keywords": [
+            "calendar",
+            "iCalendar",
+            "ical",
+            "ics",
+            "php calendar"
+        ]
+    },
+    {
+        "name": "tburry/pquery",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tburry/pquery.git",
+            "reference": "46df30f000e130ce118fd6d3a6b6fe3b31308a2e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tburry/pquery/zipball/46df30f000e130ce118fd6d3a6b6fe3b31308a2e",
+            "reference": "46df30f000e130ce118fd6d3a6b6fe3b31308a2e",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "htmlawed/htmlawed": "dev-master"
+        },
+        "time": "2014-07-16 15:43:27",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "IQuery.php",
+                "gan_formatter.php",
+                "gan_node_html.php",
+                "gan_parser_html.php",
+                "gan_selector_html.php",
+                "gan_tokenizer.php",
+                "gan_xml2array.php",
+                "pQuery.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL-2.1"
+        ],
+        "authors": [
+            {
+                "name": "Todd Burry",
+                "email": "todd@vanillaforums.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "A jQuery like html dom parser written in php.",
+        "keywords": [
+            "dom",
+            "ganon",
+            "php"
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "eluceo/ical": "dev-master",
+        "tburry/pquery": "dev-master"
+    }
+}
